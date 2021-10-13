@@ -1,0 +1,2 @@
+$ git add [NOMBRE DEL ARCHIVO]
+$ git commit -m "Mensaje de referencia"
